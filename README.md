@@ -1,1 +1,2 @@
-#Typescript course fundamentals
+# Typscript Course 
+Typescript course fundamentals
